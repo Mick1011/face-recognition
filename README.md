@@ -1,4 +1,4 @@
-<h1>About The Web App</h1>
+<h1>About The Face Detection Engine</h1>
 
 The web application detects faces in a picture by submiting the image adrress or url.
 
